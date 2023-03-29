@@ -1,5 +1,9 @@
 {
   "name": "api",
+  "engines": {
+    "node": "19",
+    "npm": "9"
+  },
   "author": "Alexandre Leroux (alex@sherpa.one)",
   "version": "1.0.0",
   "private": true,
